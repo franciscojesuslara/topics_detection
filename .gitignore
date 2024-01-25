@@ -1,0 +1,7 @@
+/modelos/
+*.csv
+*.ipynb
+/data/
+.idea/
+reports/
+src/utils/__pycache__/
